@@ -1,2 +1,0 @@
-SONAR_TOKEN = 1ce504fefdefca1c22b4c9e6bdb332d88d6103c6
-Dont use this 
