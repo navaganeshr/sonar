@@ -22,14 +22,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-	</properties>
-
-    <properties>
-        <sonar.projectKey>navaganeshr_sonar</sonar.projectKey>
+		<sonar.projectKey>navaganeshr_sonar</sonar.projectKey>
         <sonar.organization>navaganeshr</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
-	
+	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
